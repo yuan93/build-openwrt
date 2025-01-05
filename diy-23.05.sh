@@ -257,7 +257,6 @@ clone_all https://github.com/xiaorouji/openwrt-passwall2
 clone_dir https://github.com/vernesong/OpenClash luci-app-openclash
 
 # diy
-git clone https://github.com/siropboy/sirpdboy-package package/sirpdboy-package
 git_clone https://github.com/4IceG/luci-app-timecontrol
 git_clone https://github.com/gaoyaxuan/luci-app-pushbot
 git_clone https://github.com/chenmozhijin/turboacc
