@@ -261,6 +261,7 @@ clone_all https://github.com/4IceG/luci-app-timecontrol
 clone_all https://github.com/gaoyaxuan/luci-app-pushbot
 clone_all https://github.com/chenmozhijin/turboacc
 clone_all https://github.com/sirpdboy/luci-app-eqosplus
+clone_all https://github.com/sirpdboy/luci-app-poweroffdevice
 
 # Themes
 git_clone https://github.com/kiddin9/luci-theme-edge
