@@ -257,15 +257,16 @@ clone_all https://github.com/xiaorouji/openwrt-passwall2
 clone_dir https://github.com/vernesong/OpenClash luci-app-openclash
 
 # diy
-clone_all https://github.com/4IceG/luci-app-timecontrol
-clone_all https://github.com/gaoyaxuan/luci-app-pushbot
-clone_all https://github.com/chenmozhijin/turboacc
-clone_all https://github.com/sirpdboy/luci-app-eqosplus
-clone_all https://github.com/sirpdboy/luci-app-poweroffdevice
-clone_all https://github.com/sirpdboy/luci-app-parentcontrol
-clone_all https://github.com/Turing-China/luci-app-ap-modem
-clone_all https://github.com/animegasan/luci-app-wolplus
-clone_all https://github.com/byxkbyxk/luci-app-control-timewol
+git clone https://github.com/siropboy/sirpdboy-package package/sirpdboy-package
+git_clone https://github.com/4IceG/luci-app-timecontrol
+git_clone https://github.com/gaoyaxuan/luci-app-pushbot
+git_clone https://github.com/chenmozhijin/turboacc
+git_clone https://github.com/sirpdboy/luci-app-eqosplus
+git_clone https://github.com/sirpdboy/luci-app-poweroffdevice
+git_clone https://github.com/sirpdboy/luci-app-parentcontrol
+git_clone https://github.com/Turing-China/luci-app-ap-modem
+git_clone https://github.com/animegasan/luci-app-wolplus
+git_clone https://github.com/byxkbyxk/luci-app-control-timewol
 
 # Themes
 git_clone https://github.com/kiddin9/luci-theme-edge
