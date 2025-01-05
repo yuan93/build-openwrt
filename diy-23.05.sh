@@ -260,6 +260,7 @@ clone_dir https://github.com/vernesong/OpenClash luci-app-openclash
 clone_all https://github.com/4IceG/luci-app-timecontrol
 clone_all https://github.com/gaoyaxuan/luci-app-pushbot
 clone_all https://github.com/chenmozhijin/turboacc
+clone_all https://github.com/sirpdboy/luci-app-eqosplus
 
 # Themes
 git_clone https://github.com/kiddin9/luci-theme-edge
