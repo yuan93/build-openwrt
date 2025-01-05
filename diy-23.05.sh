@@ -256,6 +256,9 @@ clone_all https://github.com/xiaorouji/openwrt-passwall
 clone_all https://github.com/xiaorouji/openwrt-passwall2
 clone_dir https://github.com/vernesong/OpenClash luci-app-openclash
 
+# diy
+clone_all https://github.com/4IceG/luci-app-timecontrol
+
 # Themes
 git_clone https://github.com/kiddin9/luci-theme-edge
 git_clone https://github.com/jerrykuku/luci-theme-argon
