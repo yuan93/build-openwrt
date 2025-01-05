@@ -264,7 +264,7 @@ git_clone https://github.com/sirpdboy/luci-app-eqosplus
 git_clone https://github.com/sirpdboy/luci-app-poweroffdevice
 git_clone https://github.com/sirpdboy/luci-app-parentcontrol
 git_clone https://github.com/Turing-China/luci-app-ap-modem
-git_clone https://github.com/animegasan/luci-app-wolplus
+git_clone https://github.com/siwind/luci-app-wolplus
 
 # Themes
 git_clone https://github.com/kiddin9/luci-theme-edge
