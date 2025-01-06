@@ -263,7 +263,6 @@ git_clone https://github.com/chenmozhijin/turboacc
 git_clone https://github.com/sirpdboy/luci-app-eqosplus
 git_clone https://github.com/sirpdboy/luci-app-poweroffdevice
 git_clone https://github.com/sirpdboy/luci-app-parentcontrol
-git_clone https://github.com/Turing-China/luci-app-ap-modem
 git_clone https://github.com/siwind/luci-app-wolplus
 
 # Themes
